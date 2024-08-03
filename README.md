@@ -28,8 +28,10 @@ Description: KNN is a simple, instance-based learning algorithm used for classif
 
 Description: Naive Bayes is a probabilistic classifier based on Bayes' theorem. It assumes independence between the features, making it efficient and effective for large datasets.
 
-#8. K-Means Clustering
+# 8. K-Means Clustering
+
 Description: K-Means is an unsupervised learning algorithm used for partitioning a dataset into K distinct, non-overlapping clusters based on feature similarity.
 
-#9. Principal Component Analysis (PCA)
+# 9. Principal Component Analysis (PCA)
+
 Description: PCA is a dimensionality reduction technique that transforms the data into a set of orthogonal components, capturing the most variance with the fewest number of components.
